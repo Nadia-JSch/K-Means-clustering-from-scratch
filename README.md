@@ -63,7 +63,7 @@ Each iteration generated a scatterplot of the current centroids and cluster assi
 
 ## Authors
 
-Nadia Schmidtke [@Nadia-JSch](https://github.com/Nadia-JSch)
+Nadia Schmidtke [get in touch](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
 
 
 ## License
