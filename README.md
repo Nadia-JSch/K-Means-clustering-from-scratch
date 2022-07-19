@@ -61,10 +61,9 @@ Each iteration generated a scatterplot of the current centroids and cluster assi
 ![The start menu with the first iteration's info displayed](https://github.com/Nadia-JSch/K-Means-clustering-from-scratch/blob/master/demonstration%20screenshot.png)
 ![A matplotlib figure generated at each iteration](https://github.com/Nadia-JSch/K-Means-clustering-from-scratch/blob/master/Iteration%204%20Demonstration.png)
 
-## Authors
+## Author
 
-Nadia Schmidtke [get in touch](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
-
+Nadia Schmidtke [get in touch](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
 
 ## License
 
